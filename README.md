@@ -18,7 +18,7 @@ You can view it live here: [Motivational Poster](https://parthl001.github.io/Mot
 
 - A clean HTML page (`index.html`) containing the message and a background image.  
 - A corresponding CSS file (if applicable) for styling the layout, typography, and visuals.  
-- (Optional) Any assets: image(s), fonts, etc.
+-  Any assets: [Image](https://parthl001.github.io/Motivaitonal-Poster/assets/silence)
 
 ## 🎯 Purpose & Use Cases
 
@@ -31,5 +31,6 @@ You can view it live here: [Motivational Poster](https://parthl001.github.io/Mot
 1. Clone the repository:
    ```bash
    git clone https://github.com/parthl001/Motivaitonal-Poster.git
+
 
 
